@@ -8,10 +8,10 @@
   <img width="1232" alt="GCP" src="https://github.com/user-attachments/assets/e1b8ccc1-0189-45f6-b23c-eb463634f212">
 
 ## Monitor Database services
-   ##Azure
+   ### Azure
    <img width="789" alt="Azure3" src="https://github.com/user-attachments/assets/3baa2dc1-2973-463b-a0c6-b24a803a11d8">
 
-   ##GCP
+   ### GCP
    <img width="1232" alt="GCP" src="https://github.com/user-attachments/assets/5801e1b5-9c5a-45a3-855a-a13e05481ac9">
 
 
